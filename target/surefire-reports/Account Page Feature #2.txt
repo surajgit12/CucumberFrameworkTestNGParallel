@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Account Page Feature #2
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.282 s - in Account Page Feature #2
